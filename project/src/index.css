@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.caveat-logo {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600; /* or 400, 500, 700 */
+    font-style: italic;
+  }
+  
