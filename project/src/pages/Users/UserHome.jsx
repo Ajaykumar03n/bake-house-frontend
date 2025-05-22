@@ -215,8 +215,8 @@ export const HomeuserUser = () => {
                     {/* Contact Info */}
                     <div>
                         <h2 className='text-xl font-bold mb-4 text-green-500'>Contact</h2>
-                        <p className='text-gray-400'>Email: <a href='mailto:gvcommsec@yahoo.co.in' className='text-green-400 hover:underline'>gvcommsec@yahoo.co.in</a></p>
-                        <p className='text-gray-400'>Phone: <a href='tel:+919843336990' className='text-green-400 hover:underline'>+91 98433 36990</a></p>
+                        <p className='text-gray-400'>Email: <a href='mailto:gvcommsec@yahoo.co.in' className='text-green-400 hover:underline'>thebakehousebysuhitrakumaran@gmai.com</a></p>
+                        <p className='text-gray-400'>Phone: <a href='tel:+919843336990' className='text-green-400 hover:underline'>+91 98423 22161</a></p>
                         <p className='text-gray-400'>Location: <span className='text-green-400'>Tamil Nadu, India</span></p>
                     </div>
 
@@ -225,7 +225,7 @@ export const HomeuserUser = () => {
                         <h2 className='text-xl font-bold mb-4 text-green-500'>Our Location</h2>
                         <iframe
                             title='Map Location'
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.875937287206!2d77.71880363981943!3d11.34377131796415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba96f39b04a1e63%3A0xa58ee8b67331abd9!2sMSK%20Bikes!5e0!3m2!1sen!2sin!4v1746212140908!5m2!1sen!2sin"
+                            src="https://www.bing.com/maps?q=vanjipalayam+mangalam+road+tripur&FORM=HDRSC7&cp=11.102394%7E77.26826&lvl=15.3"
                             width='100%'
                             height='200'
                             style={{ border: 0 }}
