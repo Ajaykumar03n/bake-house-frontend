@@ -36,7 +36,7 @@ export const UserNavbar = () => {
         <nav className="bg-white shadow-md fixed top-0 left-0 w-full z-10">
             <div className="flex items-center justify-between md:justify-around p-4">
                 <div className="text-2xl font-bold text-green-600 cursor-pointer md:w-auto w-full">
-                    <span>BAKE</span><span className="text-black">_HOUSE</span>
+                    <span>BAKE</span><span className="text-black"> HOUSE</span>
                 </div>
 
 
