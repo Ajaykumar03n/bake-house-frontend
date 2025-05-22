@@ -230,8 +230,8 @@ export const DisplayEmployees = () => {
                                     <img src={emp.signedImageUrl} alt="employee" className="w-full h-48 object-cover rounded-md mb-2" />
                                     <h3 className='font-bold text-2xl mt-5 mb-2 text-center'>{emp.name}</h3>
                                     <p className='text-gray-600 mt-2'><span className='font-bold text-green-800'>Category: </span>{emp.type}</p>
-                                    <p className='text-gray-600'><span className='font-bold text-green-800'>Available Quantity: </span>{emp.quantity}</p>
-                                    <p className='text-gray-600'><span className='font-bold text-green-800'>Location: </span>{emp.cost || "N/A"}</p>
+                                    <p className='text-gray-600'><span className='font-bold text-green-800'>Available Quantity: </span>{emp.quantity}<span className='font-bold text-green-800'>  kg</span></p>
+                                    <p className='text-gray-600'><span className='font-bold text-green-800'>cost: </span>{emp.cost || "N/A"}</p>
 
                                     <div className='mt-3'>
                                         <button
