@@ -3,7 +3,7 @@ import axios from 'axios';
 import { UserNavbar } from '../../components/UserNavBar';
 import biometric from '../../assets/biometric.jpg';
 import cctv from '../../assets/cctv.jpeg';
-import sensor from '../../assets/sensor.jpg';
+import sensor from '../../assets/sensors.jpeg';
 import { useNavigate } from 'react-router-dom';
 
 
